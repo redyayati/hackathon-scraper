@@ -59,7 +59,6 @@ Exported 144 records -> <SHEET_URL>
 | File | Purpose |
 |---|---|
 | `main.py` | Full pipeline (login → search → paginate → Sheets export) |
-| `formCheck.py` | Debug helper: dumps a saved HTML page's forms, fields, postback targets and tables |
 | `requirements.txt` | Python dependencies |
 | `creds.json` | Service-account key (**do not commit/share**) |
 | `.env` | Cookie, UA, sheet URL (**do not commit/share**) |

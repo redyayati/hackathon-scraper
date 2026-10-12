@@ -60,5 +60,5 @@ Exported 144 records -> <SHEET_URL>
 |---|---|
 | `main.py` | Full pipeline (login → search → paginate → Sheets export) |
 | `requirements.txt` | Python dependencies |
-| `creds.json` | Service-account key (**do not commit/share**) |
-| `.env` | Cookie, UA, sheet URL (**do not commit/share**) |
+| `creds.json` | Service-account key |
+| `.env` | Cookie, UA, sheet URL|

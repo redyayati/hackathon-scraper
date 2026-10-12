@@ -1,5 +1,5 @@
-# SearchIQS Ashford, CT — Land Records Scraper
-Python-based scraper for the SearchIQS Ashford, CT website.
+# SearchIQS Scraper
+Python-based scraper for the SearchIQS website. 
 
 # Sample output:
 https://docs.google.com/spreadsheets/d/1uFZiRBIMGGnJxRCmIoRDrPD7lVor8PpKBaFy6qFaU7M/edit?gid=0#gid=0

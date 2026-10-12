@@ -88,7 +88,6 @@ def run_search(session , search_page):
                           fields={"ctl00$ContentPlaceHolder1$cboDocGroup" : "LR"} , 
                           event_target="ctl00$ContentPlaceHolder1$cboDocGroup")
     filledFields = {
-        "ctl00$ContentPlaceHolder1$chkIgnorePartyType" : "on",
         "ctl00$ContentPlaceHolder1$cboDocGroup" : "LR",
         "ctl00$ContentPlaceHolder1$txtFromDate" : from_day.strftime("%m/%d/%Y") , 
         "ctl00$ContentPlaceHolder1$txtThruDate" :  today.strftime("%m/%d/%Y") , 
